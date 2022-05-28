@@ -1,0 +1,32 @@
+.card-auth {
+  background: #181818;
+  border-radius: 10px;
+  max-width: 416px;
+}
+
+.form input {
+  background: rgba(210, 210, 210, 0.25);
+  border: 2px solid #bcbcbc;
+  box-sizing: border-box;
+  border-radius: 5px;
+  width: 100%;
+  color: #ffffff;
+}
+
+.btn-login {
+  background: #f74d4d !important;
+  border-radius: 5px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  line-height: 25px !important;
+  color: #ffffff !important;
+}
+
+.btn-login:hover {
+  background: #d11111 !important;
+}
+
+.btn-login:active {
+  background: #861313 !important;
+}

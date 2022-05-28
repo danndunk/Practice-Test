@@ -1,0 +1,54 @@
+.text-auth-header {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 76px;
+}
+
+.text-auth-parag {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+
+  color: #6a6a6a;
+}
+
+.btn-register {
+  font-style: normal !important;
+  font-weight: 800 !important;
+  font-size: 18px !important;
+  line-height: 25px !important;
+  color: #b7b7b7 !important;
+  margin-left: 15px;
+}
+
+.btn-login {
+  background: #f74d4d !important;
+  border-radius: 5px !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 18px !important;
+  line-height: 25px !important;
+  color: #ffffff !important;
+}
+
+.btn-login:hover {
+  background: #d11111 !important;
+  box-shadow: none;
+}
+
+.btn-login:active {
+  background: #861313 !important;
+  box-shadow: none;
+}
+
+.btn-register:hover {
+  color: #e6e6e6 !important;
+}
+
+.btn-register:active {
+  color: #b7b7b7 !important;
+  box-shadow: none;
+}

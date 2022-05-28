@@ -1,0 +1,15 @@
+.card-container {
+  color: white;
+  background-color: brown;
+}
+
+.img-product {
+  width: 100%;
+  height: 200px;
+  max-height: 200px;
+  border-radius: 5px;
+}
+
+.btn-group Button {
+  border-radius: 10px !important;
+}
